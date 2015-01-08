@@ -1,0 +1,29 @@
+{
+  "name": "is-prop",
+  "version": "1.0.0",
+  "description": "Functional way to check if a property in an object equals something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RangerMauve/is-prop.git"
+  },
+  "keywords": [
+    "prop",
+    "functional",
+    "is",
+    "check",
+    "property"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/is-prop/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/is-prop",
+  "dependencies": {
+    "prop": "^0.1.1"
+  }
+}
