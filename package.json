@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/RangerMauve/is-prop",
   "dependencies": {
-    "prop": "^0.1.1"
+    "dotty": "0.0.2"
   }
 }
